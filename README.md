@@ -56,3 +56,5 @@ A instalação do script em seu inventário/base é cobrada uma pequena taxa
 
 # Obrigado por baixar ♥
 Minha loja: https://discord.gg/KNNW93QD2P
+
+# Clique na estrelinha no topo direito para me ajudar ♥
