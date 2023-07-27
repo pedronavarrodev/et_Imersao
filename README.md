@@ -1,5 +1,8 @@
 Olá, fico feliz em te ver aqui :D
 
+#Preview do script
+https://cdn.discordapp.com/attachments/757532069885902888/1134175430937690122/2023-07-27_13-59-41.mp4
+
 Aqui vai um tutorial para te auxiliar no uso
 
 # Para ativar o efeito com item
